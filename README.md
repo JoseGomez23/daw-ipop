@@ -1,2 +1,1 @@
 # daw-ipop
-Hashtags:Contracte
