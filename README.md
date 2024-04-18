@@ -8,3 +8,4 @@
 
 
 # CV
+[Curriculum](https://github.com/JoseGomez23/daw-ipop/blob/main/CV.md)
