@@ -1,5 +1,5 @@
 # daw-ipop1
-[IPOP-Fitxa1b-Sa Palomera.docx](https://github.com/JoseGomez23/daw-ipop/files/14123338/IPOP-Fitxa1b-Sa.Palomera.docx)
+[IPOP-Fitxa1b-Sa Palomera.docx](https://github.com/JoseGomez23/daw-ipop/blob/main/IPOPS/IPOP-Fitxa1b-Sa.Palomera.pdf))
 
 
 
