@@ -10,5 +10,5 @@
 # CV
 [Curriculum](https://github.com/JoseGomez23/daw-ipop/blob/main/CV.md)
 
-#Stats
+# Stats
 ![JoseGomez23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseGomez23&theme=vue-dark&hide_border=true)
